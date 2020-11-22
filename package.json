@@ -1,7 +1,7 @@
 {
   "name": "discord-bot",
   "version": "1.0.0",
-  "description": "bot mpall",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "discord-giveaways": "^4.2.1",
@@ -13,6 +13,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Takachi_33",
+  "author": "",
   "license": "ISC"
 }
